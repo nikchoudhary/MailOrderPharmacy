@@ -1,0 +1,45 @@
+﻿@model LoginPortal.Models.RefillOrder
+
+@{
+    ViewData["Title"] = "IndexAdhoc";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    h4{font-family:'Times New Roman', Times, serif}
+</style>
+
+<h4>Search For Refill Details</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AdhocDrug_Refill">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <p class="text-primary">Enter Policy ID: </p>
+                <input asp-for="Policy_ID" class="form-control" />
+                <span asp-validation-for="Policy_ID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <p class="text-primary">Enter Member ID: </p>
+                <input asp-for="Member_ID" class="form-control" />
+                <span asp-validation-for="Member_ID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <p class="text-primary">Enter Subscription ID: </p>
+                <input asp-for="Subscription_ID" class="form-control" />
+                <span asp-validation-for="Subscription_ID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <p class="text-primary">Enter Your Location: </p>
+                <input asp-for="Location" class="form-control" />
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

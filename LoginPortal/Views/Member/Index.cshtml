@@ -1,0 +1,32 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    h1{ font-family:'Times New Roman', Times, serif}
+
+</style>
+
+<h1 align="center">Welcome To Mail Order Pharmacy!</h1>
+
+<hr />
+
+
+<div class="container col-8">
+<div class="row">
+    <a href="/Drug/Index" class="col btn btn-danger m-1">Visit Drug Availabilities</a>
+
+    <a href="/Refill/Index" class="col btn btn-primary m-1">Drug Refill Details</a>
+
+    <a href="/Refill/IndexDue" class="col btn btn-success m-1">Check Dues for Refill</a>
+    </div>
+<div class="row">
+    <a href="/Refill/IndexAdhoc" class="col btn btn-dark m-1" >Adhoc Refill Details</a>
+
+    <a href="/Subscription/Index" class="col btn btn-success m-1">Subscribe to Mail Order</a>
+
+    <a href="/Subscription/Index1" class="col btn btn-danger m-1">Unsubscribe</a>
+</div>
+    </div>
+

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<LoginPortal.Models.Drugloc>
+
+@{
+    ViewData["Title"] = "DrugDetailsall";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h4>Drug Details By Location </h4>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Drug_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpiryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Available_Stock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.Drug_Id
+            </td>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.ExpiryDate
+            </td>
+            <td>
+                @item.Available_Stock
+            </td>
+            <td>
+                @item.Location
+            </td>
+           
+        </tr>
+}
+    </tbody>
+</table>

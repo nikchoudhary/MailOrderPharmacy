@@ -1,0 +1,41 @@
+﻿@model LoginPortal.Models.Subscription
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h4 class="text-success">Subscription</h4>
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-info">@ViewBag.Message</div>
+}
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Subscription_For_Mailorder">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <p>Enter Drug Name: </p>
+                <input asp-for="Drug_Name" class="form-control" />
+                <span asp-validation-for="Drug_Name" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <p>Enter Your Location: </p>
+                <input asp-for="Member_Location" class="form-control" />
+                <span asp-validation-for="Member_Location" class="text-danger"></span>
+            </div>
+            
+            
+            <div class="form-group">
+                <input type="submit" value="Subscribe" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,172 @@
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Log4Net.config
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.exe
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\SubscriptionService.yaml
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.deps.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.runtimeconfig.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.runtimeconfig.dev.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.pdb
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csprojAssemblyReference.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.AssemblyInfoInputs.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.AssemblyInfo.cs
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csproj.CoreCompileInputs.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.RazorTargetAssemblyInfo.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csproj.CopyComplete
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacySubsription.StaticWebAssets.Manifest.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacySubsription.StaticWebAssets.xml
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.pdb
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.genruntimeconfig.cache
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Log4Net.config
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.exe
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\SubscriptionService.yaml
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.deps.json
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.runtimeconfig.json
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.runtimeconfig.dev.json
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.pdb
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csprojAssemblyReference.cache
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.AssemblyInfoInputs.cache
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.AssemblyInfo.cs
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.RazorTargetAssemblyInfo.cache
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csproj.CopyComplete
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacySubsription.StaticWebAssets.Manifest.cache
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacySubsription.StaticWebAssets.xml
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.dll
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.pdb
+C:\Users\Nikhil\Desktop\Subscription 1.0\1.0\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.genruntimeconfig.cache
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Log4Net.config
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.exe
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\SubscriptionService.yaml
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.deps.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.runtimeconfig.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.runtimeconfig.dev.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.pdb
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csprojAssemblyReference.cache
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.AssemblyInfoInputs.cache
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.AssemblyInfo.cs
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.RazorTargetAssemblyInfo.cache
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csproj.CopyComplete
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacySubsription.StaticWebAssets.Manifest.cache
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacySubsription.StaticWebAssets.xml
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.pdb
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.genruntimeconfig.cache
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Log4Net.config
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.exe
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\SubscriptionService.yaml
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.deps.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.runtimeconfig.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.runtimeconfig.dev.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\MailOrderPharmacySubsription.pdb
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csprojAssemblyReference.cache
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.AssemblyInfoInputs.cache
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.AssemblyInfo.cs
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.RazorTargetAssemblyInfo.cache
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.csproj.CopyComplete
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacySubsription.StaticWebAssets.Manifest.cache
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacySubsription.StaticWebAssets.xml
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.pdb
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\MailOrderPharmacy_Subsription\obj\Debug\netcoreapp3.1\MailOrderPharmacySubsription.genruntimeconfig.cache

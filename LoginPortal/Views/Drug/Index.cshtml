@@ -1,0 +1,44 @@
+﻿@model LoginPortal.Models.Drug
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h4 class="text-success">Check Drug availability using Drug ID or Name</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Check_DrugByID">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <p class="text-primary"> Search Drug By ID</p>
+            <div class="form-group">
+                
+                <input asp-for="DrugId" class="form-control" />
+                <span asp-validation-for="DrugId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </div>
+            </form>
+        <form asp-action="Check_DrugByName">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <p class="text-primary"> Search Drug By Name</p>
+            <div class="form-group">
+                
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+
+
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </div>
+        </form>
+</div>
+</div>
+
+

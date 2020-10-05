@@ -1,0 +1,383 @@
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.exe
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.deps.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.runtimeconfig.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.runtimeconfig.dev.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.pdb
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.csprojAssemblyReference.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.AssemblyInfoInputs.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.AssemblyInfo.cs
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.csproj.CopyComplete
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.genruntimeconfig.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.pdb
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.pdb
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\MailOrderPharmacyDrugService.exe
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\DrugService.yaml
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.deps.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.runtimeconfig.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.runtimeconfig.dev.json
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.pdb
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\MailOrderPharmacyDrugService.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\MailOrderPharmacyDrugService.pdb
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.csprojAssemblyReference.cache
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.AssemblyInfoInputs.cache
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.AssemblyInfo.cs
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.csproj.CopyComplete
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.dll
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.pdb
+C:\Users\Nikhil\Desktop\1.0\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.genruntimeconfig.cache
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\MailOrderPharmacyDrugService.exe
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\DrugService.yaml
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.deps.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.runtimeconfig.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.runtimeconfig.dev.json
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.pdb
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\MailOrderPharmacyDrugService.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\bin\Debug\netcoreapp3.1\MailOrderPharmacyDrugService.pdb
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.csprojAssemblyReference.cache
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.AssemblyInfoInputs.cache
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.AssemblyInfo.cs
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.csproj.CopyComplete
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.dll
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.pdb
+C:\Users\Nikhil\Desktop\Cognizant Project\Final MFPE\MailOrder_Pharmacy\NUnitTestFor_DrugMicroservice\obj\Debug\netcoreapp3.1\NUnitTestFor_DrugMicroservice.genruntimeconfig.cache

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<LoginPortal.Models.Refill>
+
+@{
+    ViewData["Title"] = "RefillDues";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+    <style>
+        h1 {
+            font-family: 'Times New Roman', Times, serif
+        }
+    </style>
+
+<h1>Refill Dues</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Subscription_ID)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.RefillDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NextRefillDate)
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            
+            <td>
+                @item.Subscription_ID
+            </td>
+           
+            <td>
+                @item.RefillDate
+            </td>
+            <td>
+                @item.NextRefillDate
+            </td>
+            
+            
+        </tr>
+}
+    </tbody>
+</table>
